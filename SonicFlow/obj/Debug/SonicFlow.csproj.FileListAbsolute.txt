@@ -1,0 +1,10 @@
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\bin\Debug\SonicFlow.exe.config
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\bin\Debug\SonicFlow.exe
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\bin\Debug\SonicFlow.pdb
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlow.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlow.Form1.resources
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlow.Properties.Resources.resources
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlow.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlow.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlow.exe
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlow.pdb
