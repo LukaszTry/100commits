@@ -8,3 +8,5 @@ C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlo
 C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlow.csproj.CoreCompileInputs.cache
 C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlow.exe
 C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlow.pdb
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\Interop.WMPLib.dll
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlow.csproj.ResolveComReference.cache

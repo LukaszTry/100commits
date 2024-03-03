@@ -7,14 +7,30 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Media;
 
 namespace SonicFlow
 {
     public partial class Form1 : Form
     {
+        
+        
         public Form1()
         {
             InitializeComponent();
+
+            
+        }
+
+        private void contextMenuStrip1_Opening(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+            
         }
     }
 }
