@@ -10,3 +10,6 @@ C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlo
 C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlow.pdb
 C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\Interop.WMPLib.dll
 C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\SonicFlow.csproj.ResolveComReference.cache
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\bin\Debug\Interop.WMPLib.dll
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\obj\Debug\AxInterop.WMPLib.dll

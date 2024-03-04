@@ -28,11 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.trackBar1 = new System.Windows.Forms.TrackBar();
+            this.MXP = new AxWMPLib.AxWindowsMediaPlayer();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.MXP)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -75,9 +78,19 @@
             this.trackBar1.Size = new System.Drawing.Size(542, 25);
             this.trackBar1.TabIndex = 3;
             // 
+            // MXP
+            // 
+            this.MXP.Enabled = true;
+            this.MXP.Location = new System.Drawing.Point(239, 61);
+            this.MXP.Name = "MXP";
+            this.MXP.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("MXP.OcxState")));
+            this.MXP.Size = new System.Drawing.Size(218, 45);
+            this.MXP.TabIndex = 4;
+            // 
             // Form1
             // 
             this.ClientSize = new System.Drawing.Size(677, 405);
+            this.Controls.Add(this.MXP);
             this.Controls.Add(this.trackBar1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
@@ -85,6 +98,7 @@
             this.Name = "Form1";
             this.Text = "SonicFlow";
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.MXP)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -95,7 +109,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.TrackBar trackBar1;
-        
+        private AxWMPLib.AxWindowsMediaPlayer MXP;
     }
 }
 
