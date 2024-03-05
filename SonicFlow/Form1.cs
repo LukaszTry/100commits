@@ -7,25 +7,34 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Media;
+using System.Windows.Media;
 
 namespace SonicFlow
 {
     public partial class Form1 : Form
     {
-        bool play = true;
-        
+
+        private MediaPlayer mediaPlayer;
+
         public Form1()
         {
             InitializeComponent();
-            MXP.URL = @"C:\Users\MSI\Desktop\Projects\Competition\SonicFlow\SonicFlow\bin\Debug\song1.mp3";
-            MXP.Visible = true;
-            MXP.Ctlcontrols.stop();
+            mediaPlayer = new MediaPlayer();
+            mediaPlayer.Open(new Uri("Feed the Machine.mp3", UriKind.Relative));
         }
+
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MXP.Ctlcontrols.play();
+            try
+            {
+                MXP.Ctlcontrols.play();
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            
 
         }
     }

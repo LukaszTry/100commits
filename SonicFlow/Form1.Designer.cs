@@ -81,10 +81,10 @@
             // MXP
             // 
             this.MXP.Enabled = true;
-            this.MXP.Location = new System.Drawing.Point(239, 61);
+            this.MXP.Location = new System.Drawing.Point(248, 27);
             this.MXP.Name = "MXP";
             this.MXP.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("MXP.OcxState")));
-            this.MXP.Size = new System.Drawing.Size(218, 45);
+            this.MXP.Size = new System.Drawing.Size(237, 102);
             this.MXP.TabIndex = 4;
             // 
             // Form1
