@@ -19,6 +19,7 @@ namespace SonicFlow
         public Form1()
         {
             InitializeComponent();
+            //Czemu ty skurwysynu nie bierzesz tej piosenki do kurwy
             player.URL = "song1.mp3";
         }
 
